@@ -1,0 +1,26 @@
+{
+	"name": "@scr2em/path-builder",
+	"private": false,
+	"version": "1.0.0",
+	"description": "A utility function to transform object properties into path-getting accessors.",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "tsc",
+		"publish": "npm publish --access public"
+	},
+	"keywords": [
+		"path",
+		"builder",
+		"typescript",
+		"public",
+		"src",
+		"utility"
+	],
+	"author": "Mohamed M. Abdelgwad",
+	"license": "ISC",
+	"dependencies": {
+		"typescript": "^5.5.3"
+	},
+	"homepage": "https://github.com/scr2em/path-builder#readme",
+	"repository":"https://github.com/scr2em/path-builder"
+}
